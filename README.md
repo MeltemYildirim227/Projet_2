@@ -1,4 +1,4 @@
-# Projet_2
+# Projet_2 : Analysez des données de systèmes éducatifs
 
 Vous êtes Data Scientist dans une start-up de la EdTech, nommée academy, qui propose des contenus de formation en ligne pour un public de niveau lycée et université.
 
