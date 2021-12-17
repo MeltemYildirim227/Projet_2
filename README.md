@@ -19,8 +19,6 @@ Les données de la Banque mondiale sont disponibles à l’adresse suivante :
 
 https://datacatalog.worldbank.org/dataset/education-statistics
 
-Ou en téléchargement direct à ce lien (https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Donn%C3%A9es+%C3%A9ducatives/Projet+Python_Dataset_Edstats_csv.zip).
-
 Je te laisse regarder la page d'accueil qui décrit le jeu de données. En résumé, l’organisme “EdStats All Indicator Query” de la Banque mondiale répertorie 4000 indicateurs internationaux décrivant l’accès à l’éducation, l’obtention de diplômes et des informations relatives aux professeurs, aux dépenses liées à l’éducation... Tu trouveras plus d'info sur ce site :
 
 http://datatopics.worldbank.org/education/
